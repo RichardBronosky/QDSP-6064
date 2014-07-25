@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.4, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="129.6px"
+	 height="150.84px" viewBox="0 0 129.6 150.84" enable-background="new 0 0 129.6 150.84" xml:space="preserve">
+<g>
+	<g id="schematic">
+		
+			<rect x="22.68" y="1.08" fill="none" stroke="#000000" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round" width="84.96" height="148.68"/>
+		
+			<text id="label" transform="matrix(-4.371139e-08 1 -1 -4.371139e-08 59.7532 26.9861)" font-family="'.LucidaGrandeUI'" font-size="16.92">QDSP-6064</text>
+		
+			<line fill="none" stroke="#000000" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round" x1="1.08" y1="22.68" x2="21.6" y2="22.68"/>
+		<rect id="connector0pin" x="0" y="21.6" fill="none" width="21.6" height="2.16"/>
+		<g id="connector0terminal">
+		</g>
+		<text id="label0" transform="matrix(1 0 0 1 28.0803 25.2004)" font-family="'.LucidaGrandeUI'" font-size="9.36">C1</text>
+		
+			<line fill="none" stroke="#000000" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round" x1="108" y1="22.68" x2="128.52" y2="22.68"/>
+		<rect id="connector11pin" x="108" y="21.6" fill="none" width="21.6" height="2.16"/>
+		<g id="connector11terminal">
+		</g>
+		<text id="label11" transform="matrix(1 0 0 1 89.6829 25.2004)" font-family="'.LucidaGrandeUI'" font-size="9.36">Aa</text>
+		
+			<line fill="none" stroke="#000000" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round" x1="1.08" y1="43.92" x2="21.6" y2="43.92"/>
+		<rect id="connector1pin" x="0" y="42.84" fill="none" width="21.6" height="2.16"/>
+		<g id="connector1terminal">
+		</g>
+		<text id="label1" transform="matrix(1 0 0 1 28.0803 46.4407)" font-family="'.LucidaGrandeUI'" font-size="9.36">Ae</text>
+		
+			<line fill="none" stroke="#000000" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round" x1="108" y1="43.92" x2="128.52" y2="43.92"/>
+		<rect id="connector10pin" x="108" y="42.84" fill="none" width="21.6" height="2.16"/>
+		<g id="connector10terminal">
+		</g>
+		<text id="label10" transform="matrix(1 0 0 1 89.6829 46.4407)" font-family="'.LucidaGrandeUI'" font-size="9.36">Ab</text>
+		
+			<line fill="none" stroke="#000000" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round" x1="1.08" y1="65.16" x2="21.6" y2="65.16"/>
+		<rect id="connector2pin" x="0" y="64.08" fill="none" width="21.6" height="2.16"/>
+		<g id="connector2terminal">
+		</g>
+		<text id="label2" transform="matrix(1 0 0 1 28.0803 67.6799)" font-family="'.LucidaGrandeUI'" font-size="9.36">Ac</text>
+		
+			<line fill="none" stroke="#000000" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round" x1="108" y1="65.16" x2="128.52" y2="65.16"/>
+		<rect id="connector9pin" x="108" y="64.08" fill="none" width="21.6" height="2.16"/>
+		<g id="connector9terminal">
+		</g>
+		<text id="label9" transform="matrix(1 0 0 1 89.6829 67.6799)" font-family="'.LucidaGrandeUI'" font-size="9.36">C2</text>
+		
+			<line fill="none" stroke="#000000" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round" x1="1.08" y1="86.401" x2="21.6" y2="86.401"/>
+		<rect id="connector3pin" x="0" y="85.321" fill="none" width="21.6" height="2.159"/>
+		<g id="connector3terminal">
+		</g>
+		<text id="label3" transform="matrix(1 0 0 1 28.0803 88.9202)" font-family="'.LucidaGrandeUI'" font-size="9.36">C3</text>
+		
+			<line fill="none" stroke="#000000" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round" x1="108" y1="86.401" x2="128.52" y2="86.401"/>
+		<rect id="connector8pin" x="108" y="85.321" fill="none" width="21.6" height="2.159"/>
+		<g id="connector8terminal">
+		</g>
+		<text id="label8" transform="matrix(1 0 0 1 89.6829 88.9202)" font-family="'.LucidaGrandeUI'" font-size="9.36">Af</text>
+		
+			<line fill="none" stroke="#000000" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round" x1="1.08" y1="107.64" x2="21.6" y2="107.64"/>
+		<rect id="connector4pin" x="0" y="106.56" fill="none" width="21.6" height="2.16"/>
+		<g id="connector4terminal">
+		</g>
+		<text id="label4" transform="matrix(1 0 0 1 28.0803 110.1604)" font-family="'.LucidaGrandeUI'" font-size="9.36">Adp</text>
+		
+			<line fill="none" stroke="#000000" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round" x1="108" y1="107.64" x2="128.52" y2="107.64"/>
+		<rect id="connector7pin" x="108" y="106.56" fill="none" width="21.6" height="2.16"/>
+		<g id="connector7terminal">
+		</g>
+		<text id="label7" transform="matrix(1 0 0 1 89.6829 110.1604)" font-family="'.LucidaGrandeUI'" font-size="9.36">Ad</text>
+		
+			<line fill="none" stroke="#000000" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round" x1="1.08" y1="128.88" x2="21.6" y2="128.88"/>
+		<rect id="connector5pin" x="0" y="127.8" fill="none" width="21.6" height="2.16"/>
+		<g id="connector5terminal">
+		</g>
+		<text id="label5" transform="matrix(1 0 0 1 28.0803 131.4006)" font-family="'.LucidaGrandeUI'" font-size="9.36">C4</text>
+		
+			<line fill="none" stroke="#000000" stroke-width="2.16" stroke-linecap="round" stroke-linejoin="round" x1="108" y1="128.88" x2="128.52" y2="128.88"/>
+		<rect id="connector6pin" x="108" y="127.8" fill="none" width="21.6" height="2.16"/>
+		<g id="connector6terminal">
+		</g>
+		<text id="label6" transform="matrix(1 0 0 1 89.6829 131.4006)" font-family="'.LucidaGrandeUI'" font-size="9.36">Ag</text>
+	</g>
+</g>
+</svg>
